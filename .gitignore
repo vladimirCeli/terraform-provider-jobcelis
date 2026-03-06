@@ -1,0 +1,11 @@
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+terraform-provider-jobcelis
+.terraform/
+*.tfstate
+*.tfstate.backup
